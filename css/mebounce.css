@@ -1,0 +1,64 @@
+input#meStyled,
+textarea#meStyled {
+	width:100%;
+	padding:5px;
+	border: 1px solid #999;
+	transition-duration:0.3s;
+}
+textarea#meStyled {
+	height: 200px;
+}
+input#meStyled:focus,
+textarea#meStyled:focus {
+	border: 1px solid #069;
+	outline:none;
+}
+.form-table th.mb {
+padding: 15px 10px 15px 10px !important;
+line-height: 1 !important;
+font-weight: 200 !important;
+font-size: smaller !important;
+}
+
+.form-table td {
+line-height: 1 !important;
+font-size: smaller !important;
+}
+
+.medust {
+border-left: 5px solid #2da6c4 !important;
+border-radius: 3px !important;
+} 
+.medust p {
+	font-size:12px !important;
+	text-align:justify;
+}
+
+.has-right-sidebar .inner-sidebar {
+margin-right: 15px !important;
+margin-top: -15px !important;
+}
+
+.ui-tabs .ui-tabs-nav {
+font-size: smaller !important;
+}
+
+.submit {
+padding: 15px 0px 0px 0px !important;
+}
+
+table.mb-list-table {
+	width:100%;
+	background:#fff;
+	border:1px solid #ccc;
+}
+table.mb-list-table th {
+	text-align:left;
+	font-weight:bold;
+}
+table.mb-list-table th, tr, td {
+	padding:10px;
+}
+table.mb-list-table th {
+	border-bottom:1px solid #E8E8E8;
+}
